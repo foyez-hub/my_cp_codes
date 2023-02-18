@@ -4,6 +4,7 @@ using namespace std;
 typedef long long int ll;
 typedef unsigned long long ull;
 #define pb push_back
+
 bool f(string s)
 {
 
